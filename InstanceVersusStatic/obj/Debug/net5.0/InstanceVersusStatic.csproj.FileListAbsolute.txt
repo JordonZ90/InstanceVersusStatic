@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\bin\Debug\net5.0\InstanceVersusStatic.exe
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\bin\Debug\net5.0\InstanceVersusStatic.deps.json
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\bin\Debug\net5.0\InstanceVersusStatic.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\bin\Debug\net5.0\InstanceVersusStatic.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\bin\Debug\net5.0\InstanceVersusStatic.dll
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\bin\Debug\net5.0\ref\InstanceVersusStatic.dll
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\bin\Debug\net5.0\InstanceVersusStatic.pdb
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\InstanceVersusStatic.csproj.AssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\InstanceVersusStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\InstanceVersusStatic.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\InstanceVersusStatic.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\InstanceVersusStatic.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\InstanceVersusStatic.dll
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\ref\InstanceVersusStatic.dll
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\InstanceVersusStatic.pdb
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\InstanceVersusStatic\InstanceVersusStatic\obj\Debug\net5.0\InstanceVersusStatic.genruntimeconfig.cache
